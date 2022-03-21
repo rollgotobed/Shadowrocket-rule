@@ -4,7 +4,13 @@
 
 ----
 
-## **使用的基础规则文件基于 [h2y 的 sr_top500_banlist_ad.conf](https://h2y.github.io/Shadowrocket-ADBlock-Rules/sr_top500_banlist_ad.conf)。**
+**使用的基础规则文件基于 [h2y 的 sr_top500_banlist_ad.conf](https://h2y.github.io/Shadowrocket-ADBlock-Rules/sr_top500_banlist_ad.conf)。**
+
+
+
+### 2022/03/20 更新：
+
+- 添加 tiktokcdn-us.com
 
 ### 2022/03/20 更新：
 
