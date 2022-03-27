@@ -10,8 +10,8 @@
 
 Shadowrocket：2022年3月27日
 
-[这里直达对应目录]()
+[这里直达对应目录](https://github.com/rollgotobed/Shadowrocket-rule/tree/master/Shadowrocket)
 
 V2ray：2022年3月22日
 
-[这里直达对应目录]()
+[这里直达对应目录](https://github.com/rollgotobed/Shadowrocket-rule/tree/master/V2rayN)
