@@ -1,0 +1,13 @@
+geosite:cn,
+domain:339999.top,
+domain:amap.com,
+domain:blog.moli.ga,
+domain:cdn.jsdelivr.net,
+domain:cloudflare.com,
+domain:hack.moli.ga,
+domain:gov.cn,
+domain:nokji.ga,
+domain:nokji.ml,
+domain:s1.hdslb.com,
+domain:xy96.top,
+domain:zhimg.com

@@ -1,0 +1,7 @@
+domain:youtube.com,
+domain:githubusercontent.com,
+domain:linshiyouxiang.net,
+domain:twitter.com,
+domain:clips4sale.com,
+domain:cbart.net,
+twitter
