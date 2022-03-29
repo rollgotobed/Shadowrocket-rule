@@ -8,7 +8,7 @@
 
 更新日期：
 
-Shadowrocket：2022年3月27日
+Shadowrocket：2022年3月29日
 
 [这里直达对应目录](https://github.com/rollgotobed/Shadowrocket-rule/tree/master/Shadowrocket)
 
